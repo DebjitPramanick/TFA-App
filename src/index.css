@@ -63,6 +63,10 @@ button{
   white-space: nowrap;
 }
 
+button:disabled{
+  background-color: #c7c7c7;
+}
+
 .send{
   background-color: #00d181;
   color: #fff;
